@@ -1,16 +1,3 @@
-Copyright (c) 2020 Aaron Jense 
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
 # Learn Embedded Systems
 
 ## Introduction
@@ -364,18 +351,18 @@ This document is a collection of resources for learning embedded systems enginee
 
 [ ] [Video: "MSP430 Software Overview", YouTube](https://www.youtube.com/watch?v=4Hl2YBCYmRo&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=6)
 
-### [ ] Important Programming Concepts (Even on Embedded Systems)
-- [] [Article: "Part I: Idempotence", Embedded Related](https://www.embeddedrelated.com/showarticle/629.php)
+### Important Programming Concepts (Even on Embedded Systems)
+- [ ] [Article: "Part I: Idempotence", Embedded Related](https://www.embeddedrelated.com/showarticle/629.php)
 
-- [] [Article: "Part II: Immutability", Embedded Related](https://www.embeddedrelated.com/showarticle/639.php)
+- [ ] [Article: "Part II: Immutability", Embedded Related](https://www.embeddedrelated.com/showarticle/639.php)
 
-- [] [Article: "Part III: Volatility", Embedded Related](https://www.embeddedrelated.com/showarticle/649.php)
+- [ ] [Article: "Part III: Volatility", Embedded Related](https://www.embeddedrelated.com/showarticle/649.php)
 
-- [] [Article: "Part IV: Singletons", Embedded Related](https://www.embeddedrelated.com/showarticle/691.php)
+- [ ] [Article: "Part IV: Singletons", Embedded Related](https://www.embeddedrelated.com/showarticle/691.php)
 
-- [] [Article: "Part V: State Machines", Embedded Related](https://www.embeddedrelated.com/showarticle/723.php#comments)
+- [ ] [Article: "Part V: State Machines", Embedded Related](https://www.embeddedrelated.com/showarticle/723.php#comments)
 
-- [] [Article: "Part VI : Abstraction", Embedded Related](https://www.embeddedrelated.com/showarticle/792.php)
+- [ ] [Article: "Part VI : Abstraction", Embedded Related](https://www.embeddedrelated.com/showarticle/792.php)
 
 ### C Keywords
 [ ] [Article: "Keywords to Frequent", Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard/general-rules/keywords-static-volatile-const)
@@ -383,7 +370,7 @@ This document is a collection of resources for learning embedded systems enginee
 [ ] [Article: "Efficient C Code for 8-bit Microcontrollers", Barr Group](https://barrgroup.com/embedded-systems/how-to/efficient-c-code)
 
 - #### volatile
-    - [ ] [Video: "Tech Talk: Pro Tips for Using C’s Volatile Keyword", YouTube](https://www.youtube.com/watch?v=ikMHep5oT5w)
+    - [ ] [Video: "Tech Talk: Pro Tips for Using C's Volatile Keyword", YouTube](https://www.youtube.com/watch?v=ikMHep5oT5w)
 - #### static
     - [ ] [Article: "Scope regions in C and C++", Embedded](https://www.embedded.com/scope-regions-in-c-and-c/)
 - #### const
@@ -417,7 +404,7 @@ This document is a collection of resources for learning embedded systems enginee
 ### Interrupts
 [ ] [Article: "Introduction to Microcontrollers - Interrupts", Embedded Related](https://www.embeddedrelated.com/showarticle/469.php)
 
-- #### [ ] MSP430 Interrupts
+- #### MSP430 Interrupts
     - [ ] [Video: "Overview and Basic Concepts", YouTube](https://www.youtube.com/watch?v=EqaKOg5HiaU&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=47kj)
 
     - [ ] [Video: "Interrupts Overview & Port Interrupt Example", YouTube](https://www.youtube.com/watch?v=3duicvNsBqo&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=74)
@@ -517,7 +504,7 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 
     - #### Control Systems
         - #### PID
-            #### [ ] Understanding PID Control
+            #### Understanding PID Control
             - [ ] [Video: "Part 1: What is PID Control?", YouTube](https://www.youtube.com/watch?v=wkfEZmsQqiA)
             - [ ] [Video: "Part 2: Expanding Beyond a Simple Integral", YouTube](https://www.youtube.com/watch?v=NVLXCwc8HzM)
             - [ ] [Video: "Part 3: Expanding Beyond a Simple Derivative", YouTube](https://www.youtube.com/watch?v=7dUVdrs1e18)
@@ -525,14 +512,14 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
             - [ ] [Video: "Part 5: Three Ways to Build a Model", YouTube](https://www.youtube.com/watch?v=qhIjIu-Zk10)
             - [ ] [Video: "Part 6: Manual and Automatic Tuning Methods", YouTube](https://www.youtube.com/watch?v=qj8vTO1eIHo)
             - [ ] [Video: "Part 7: Important PID Concepts", YouTube](https://www.youtube.com/watch?v=tbgV6caAVcs)
-            #### [ ] Drone Simulation and Control
+            #### Drone Simulation and Control
             - [ ] [Video: "Part 1: Setting Up the Control Problem", YouTube](https://www.youtube.com/watch?v=hGcGPUqB67Q)
             - [ ] [Video: "Part 2: How Do You Get a Drone to Hover?", YouTube](https://www.youtube.com/watch?v=GK1t8YIvGM8)
             - [ ] [Video: "Part 3: How to Build the Flight Code", YouTube](https://www.youtube.com/watch?v=3Gtb5Eq1Lvk)
             - [ ] [Video: "Part 4: How to Build a Model for Simulation", YouTube](https://www.youtube.com/watch?v=gEmGfo36INc)
             - [ ] [Video: "Part 5: Tuning the PID controller", YouTube](https://www.youtube.com/watch?v=BqrRfoH-19s)
         - #### Solar
-            - [ ] [Video: "How to implement maximum power point tracking for solar charging", YouTube](https://www.youtube.com/watch?v=U9phLv8g9S8)
+            - [ ] [Video: "How to implement maximum power point tracking for solar charging", YouTube](https://www.youtube.com/watch?v=U9phLv8gS8)
     - #### Cryptography and Encryption
 
 
