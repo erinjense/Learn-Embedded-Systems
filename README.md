@@ -4,9 +4,9 @@
 
 This document is a collection of resources for learning embedded systems engineering.
 
-[ ] [Article: "Introduction", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/introduction)
+- [ ] [Article: "Introduction", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/introduction)
 
-[ ] [Video: "Embedded Systems Overview", YouTube](https://www.youtube.com/watch?v=KfFBEBN5UHU&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=1)
+- [ ] [Video: "Embedded Systems Overview", YouTube](https://www.youtube.com/watch?v=KfFBEBN5UHU&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=1)
 
 ---
 
@@ -143,16 +143,16 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "Setting Up the Analog Discovery 2 Portable Lab Instrument", YouTube](https://www.youtube.com/watch?v=07uSLwIzGSY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=85)
 
 ## Embedded Hardware
-[ ] [Article: "Getting to Know the Hardware", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/hardware-processor-peripherals)
+- [ ] [Article: "Getting to Know the Hardware", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/hardware-processor-peripherals)
 
-[ ] [Video: "Computer Hardware", YouTube](https://www.youtube.com/watch?v=NaXZqulP3vc&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=3)
+- [ ] [Video: "Computer Hardware", YouTube](https://www.youtube.com/watch?v=NaXZqulP3vc&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=3)
 
-[ ] [Video: "MSP430 Hardware Overview", YouTube](https://www.youtube.com/watch?v=cHyIz3Tksho&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=5)
+- [ ] [Video: "MSP430 Hardware Overview", YouTube](https://www.youtube.com/watch?v=cHyIz3Tksho&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=5)
 
 ### Computer Architecture
-[ ] [Video: "Architecture-Software Interface", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/1-architecture-software-interface-pNVIO)
+- [ ] [Video: "Architecture-Software Interface", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/1-architecture-software-interface-pNVIO)
 
-[ ] [Video: "Word Size and Data Types", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/2-word-size-and-data-types-53eDm)
+- [ ] [Video: "Word Size and Data Types", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/2-word-size-and-data-types-53eDm)
 
 - #### RISC
     - [ ] [Website: "RISC-V Educational Materials", RISC-V](https://riscv.org/community/learn-about-risc-v/educational-materials/)
@@ -182,10 +182,10 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "A Look Inside: SoC FPGAs Introduction (Part 1 of 5)", YouTube](https://www.youtube.com/watch?v=RVM-ESUMOMU)
 
 ### Serial Communication
-[ ] [Video: "PROTOCOLS: UART - I2C - SPI - Serial communications #001", YouTube](https://www.youtube.com/watch?v=IyGwvGzrqp8)
+- [ ] [Video: "PROTOCOLS: UART - I2C - SPI - Serial communications #001", YouTube](https://www.youtube.com/watch?v=IyGwvGzrqp8)
 
 - #### SPI
-    #### [ ] SPI on the MSP430
+    - #### [ ] SPI on the MSP430
     - [ ] [Video: "SPI - SPI Overview & Implementation on the MSP430", YouTube](https://www.youtube.com/watch?v=2J8_dpnaBOk&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=94)
 
     - [ ] [Video: "SPI - Sending a Byte as a SPI Master", YouTube](https://www.youtube.com/watch?v=ODmeQ_3gOj4&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=95)
@@ -199,7 +199,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "SPI - Slave Behavior", YouTube](https://www.youtube.com/watch?v=xAs13cgyJ0Y&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=99)
 
 - #### I2C
-    #### [ ] I2C on the MSP430
+    - #### [ ] I2C on the MSP430
     - [ ] [Video: "I2C - What is I-Squared C and why the Resistors?", YouTube](https://www.youtube.com/watch?v=kWz6ekvoNbw&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=100)
 
     - [ ] [Video: "I2C - Basic Packet Structure", YouTube](https://www.youtube.com/watch?v=sNYgiHZT_Fo&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=101)
@@ -223,7 +223,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "I2C - Slave Operation", YouTube](https://www.youtube.com/watch?v=nxiHAN3ijic&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=110)
 
 - #### UART
-    #### [ ] UART on the MSP430
+    - #### [ ] UART on the MSP430
     - [ ] [Video: "The UART - Serial Com Overview", YouTube](https://www.youtube.com/watch?v=p_YOsh7BSDE&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=82)
 
     - [ ] [Video: "UART - The UART Standard", YouTube](https://www.youtube.com/watch?v=4ieYL74YcBY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=83)
@@ -257,13 +257,13 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video, "What is RS485 and How it's used in Industrial Control Systems?", YouTube](https://www.youtube.com/watch?v=3wgKcUDlHuM)
 
 ### GPIO
-[ ] [Video: "How GPIO works | General Purpose Input Output | GPIO Behind The Scene", YouTube](https://www.youtube.com/watch?v=QxvdmzKxEeg)
+- [ ] [Video: "How GPIO works | General Purpose Input Output | GPIO Behind The Scene", YouTube](https://www.youtube.com/watch?v=QxvdmzKxEeg)
 
-[ ] [Article: "Introduction to Microcontrollers - Hello World", Embedded Related](https://www.embeddedrelated.com/showarticle/460.php)
+- [ ] [Article: "Introduction to Microcontrollers - Hello World", Embedded Related](https://www.embeddedrelated.com/showarticle/460.php)
 
-[ ] [Article: "Introduction to Microcontrollers - More On GPIO", Embedded Related](https://www.embeddedrelated.com/showarticle/462.php)
+- [ ] [Article: "Introduction to Microcontrollers - More On GPIO", Embedded Related](https://www.embeddedrelated.com/showarticle/462.php)
 
-[ ] [Video: "Using GPIO with the MSP430 Microcontroller", YouTube](https://www.youtube.com/watch?v=WsbA_iPXIvw)
+- [ ] [Video: "Using GPIO with the MSP430 Microcontroller", YouTube](https://www.youtube.com/watch?v=WsbA_iPXIvw)
 
 - #### Pin Modes
     - #### Pull Up/Down
@@ -281,7 +281,7 @@ This document is a collection of resources for learning embedded systems enginee
 
 ### Analog Input
 - #### ADC
-    #### [ ] Analog-to-Digital Converter on the MSP430
+    - #### [ ] Analog-to-Digital Converter on the MSP430
     - [ ] [Video: "Overview of ADCs", YouTube](https://www.youtube.com/watch?v=ZwThTeZnTEk&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=111)
 
     - [ ] [Video: "The MSP430 ADC & Configuration", YouTube](https://www.youtube.com/watch?v=l__XaxTco6I&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=112)
@@ -299,7 +299,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Article: "About Digital to Analog Converter (DAC) and Its Applications", ElProCus](https://www.elprocus.com/digital-to-analog-converter-dac-applications/)
 
 ### Timer
-[ ] [Article: "Introduction to Microcontrollers - More Timers and Displays", Embedded Related](https://www.embeddedrelated.com/showarticle/485.php)
+- [ ] [Article: "Introduction to Microcontrollers - More Timers and Displays", Embedded Related](https://www.embeddedrelated.com/showarticle/485.php)
 
 - #### [ ] MSP430 Timer
     - [ ] [Video: "Timer Overflow using ACLK", YouTube](https://www.youtube.com/watch?v=lha1L3JYBfM&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=75)
@@ -310,7 +310,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "Timer Captures", YouTube](https://www.youtube.com/watch?v=yQduo9dM_ig&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=81)
 
 ### Constraints
-[ ] [Video: "Optimizing C for Microcontrollers - Best Practices - Khem Raj, Comcast RDK", YouTube](https://www.youtube.com/watch?v=GYAhbYnObLI)
+- [ ] [Video: "Optimizing C for Microcontrollers - Best Practices - Khem Raj, Comcast RDK", YouTube](https://www.youtube.com/watch?v=GYAhbYnObLI)
 
 - #### Power
     - [ ] [Video: "How To Lower AVR Microcontroller Power using Power Reduction Registers", YouTube](https://www.youtube.com/watch?v=S82BSPbYoVA)
@@ -335,8 +335,8 @@ This document is a collection of resources for learning embedded systems enginee
 
         - [ ] [Article: "How to make a heap profiler", Embedded Related](https://www.embeddedrelated.com/showarticle/600.php)
 
-### Embedded Operating Systems
-[ ] [Article: "Operating Systems", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/real-time-operating-systems)
+## Embedded Operating Systems
+- [ ] [Article: "Operating Systems", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/real-time-operating-systems)
 - #### Bare Metal
     - [ ] [eBook: "Bare-metal C programming on ARM", GitHub](https://github.com/umanovskis/baremetal-arm)
 
@@ -347,9 +347,9 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Blog: "RTOS", Barr Group](https://barrgroup.com/blog-tag/rtos)
 
 ## Embedded Software
-[ ] [Video: "Computer Software", YouTube](https://www.youtube.com/watch?v=E9f5fHlEl5s&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=4)
+- [ ] [Video: "Computer Software", YouTube](https://www.youtube.com/watch?v=E9f5fHlEl5s&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=4)
 
-[ ] [Video: "MSP430 Software Overview", YouTube](https://www.youtube.com/watch?v=4Hl2YBCYmRo&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=6)
+- [ ] [Video: "MSP430 Software Overview", YouTube](https://www.youtube.com/watch?v=4Hl2YBCYmRo&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=6)
 
 ### Important Programming Concepts (Even on Embedded Systems)
 - [ ] [Article: "Part I: Idempotence", Embedded Related](https://www.embeddedrelated.com/showarticle/629.php)
@@ -365,9 +365,9 @@ This document is a collection of resources for learning embedded systems enginee
 - [ ] [Article: "Part VI : Abstraction", Embedded Related](https://www.embeddedrelated.com/showarticle/792.php)
 
 ### C Keywords
-[ ] [Article: "Keywords to Frequent", Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard/general-rules/keywords-static-volatile-const)
+- [ ] [Article: "Keywords to Frequent", Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard/general-rules/keywords-static-volatile-const)
 
-[ ] [Article: "Efficient C Code for 8-bit Microcontrollers", Barr Group](https://barrgroup.com/embedded-systems/how-to/efficient-c-code)
+- [ ] [Article: "Efficient C Code for 8-bit Microcontrollers", Barr Group](https://barrgroup.com/embedded-systems/how-to/efficient-c-code)
 
 - #### volatile
     - [ ] [Video: "Tech Talk: Pro Tips for Using C's Volatile Keyword", YouTube](https://www.youtube.com/watch?v=ikMHep5oT5w)
@@ -402,7 +402,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Video: "Switching to C to Program the MSP430 - Arithmetic", YouTube](https://www.youtube.com/watch?v=7KMy0lgxZhI&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=70)
 
 ### Interrupts
-[ ] [Article: "Introduction to Microcontrollers - Interrupts", Embedded Related](https://www.embeddedrelated.com/showarticle/469.php)
+- [ ] [Article: "Introduction to Microcontrollers - Interrupts", Embedded Related](https://www.embeddedrelated.com/showarticle/469.php)
 
 - #### MSP430 Interrupts
     - [ ] [Video: "Overview and Basic Concepts", YouTube](https://www.youtube.com/watch?v=EqaKOg5HiaU&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=47kj)
@@ -427,11 +427,11 @@ This document is a collection of resources for learning embedded systems enginee
 - [ ] [Article: "Optimizing Your Code", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/code-optimization-size-speed)
 
 ### Coding Standards
-[ ] [Article: "Embedded C Coding Standards", Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard)
+- [ ] [Article: "Embedded C Coding Standards", Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard)
 
-[ ] [Video: "Tech Talk: Are Coding Standards & Static Analysis Really That Important?", YouTube](https://www.youtube.com/watch?v=r9f7oVgYoMk)
+- [ ] [Video: "Tech Talk: Are Coding Standards & Static Analysis Really That Important?", YouTube](https://www.youtube.com/watch?v=r9f7oVgYoMk)
 
-[ ] [Blog: "Coding Standards", Barr Group](https://barrgroup.com/blog-tag/coding-standards)
+- [ ] [Blog: "Coding Standards", Barr Group](https://barrgroup.com/blog-tag/coding-standards)
 
 - #### MISRA
     - [ ] [Video: "An Introduction to MISRA C - Excerpt from An Introduction to MISRA C:2012 Webinar", YouTube](https://www.youtube.com/watch?v=6a9Fwvvp92I)
@@ -443,7 +443,7 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 
 ## Embedded Software Layers
 ### Peripheral and Hardware Layer
-[ ] [Article: "Peripherals", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/peripherals-device-drivers)
+- [ ] [Article: "Peripherals", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/peripherals-device-drivers)
 
 - #### Registers
     - [ ] [Video: "Level Up Your Arduino Code: Registers", YouTube](https://www.youtube.com/watch?v=6q1yEb_ukw8)
@@ -455,9 +455,9 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
     - [ ] [Video: "Exploring Configurable Logic Peripherals on PIC® and AVR® Microcontrollers", YouTube](https://www.youtube.com/watch?v=beZXfAUR-PE)
 
 ### Hardware Abstraction Layer
-[ ] [Video: "The Nios® II Processor: Hardware Abstraction Layer", YouTube](https://www.youtube.com/watch?v=HF7Low_sUig)
+- [ ] [Video: "The Nios® II Processor: Hardware Abstraction Layer", YouTube](https://www.youtube.com/watch?v=HF7Low_sUig)
 
-[ ] [Textbook: "Reusable Firmware Development: A Practical Approach to APIs, HALs and Drivers", Amazon](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach-ebook-dp-B07811CX8Q/dp/B07811CX8Q/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] [Textbook: "Reusable Firmware Development: A Practical Approach to APIs, HALs and Drivers", Amazon](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach-ebook-dp-B07811CX8Q/dp/B07811CX8Q/ref=mt_other?_encoding=UTF8&me=&qid=)
 
 - #### Register Definition Files
     - [ ] [Video: "Register Definition Files", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/9-register-definition-files-6pqVq)
@@ -524,9 +524,9 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 
 
 ## Debugging
-[ ] [Article: "Downloading and Debugging", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/downloading-debugging)
+- [ ] [Article: "Downloading and Debugging", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/downloading-debugging)
 
- [ ] [Blog: "Debugging", Barr Group](https://barrgroup.com/blog-tag/debugging)
+- [ ] [Blog: "Debugging", Barr Group](https://barrgroup.com/blog-tag/debugging)
 
 ### Static Analysis
 - [ ] [Video: "Static Code Analysis: Scan All Your Code For Bugs", YouTube](https://www.youtube.com/watch?v=Heor8BVa4A0)
