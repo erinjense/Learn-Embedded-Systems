@@ -135,12 +135,12 @@ This document is a collection of resources for learning embedded systems enginee
 
 ### Development Tools
 - #### IDE
-    - [PlatformIO](https://platformio.org/)
-    - [Visual Studio Code](https://code.visualstudio.com/)
-    - [VisualGDB](https://visualgdb.com/)
+    - [ ] [PlatformIO](https://platformio.org/)
+    - [ ] [Visual Studio Code](https://code.visualstudio.com/)
+    - [ ] [VisualGDB](https://visualgdb.com/)
 
 - #### Oscilliscopes and Logic Analyzers
-    - [Video: "Setting Up the Analog Discovery 2 Portable Lab Instrument", YouTube](https://www.youtube.com/watch?v=07uSLwIzGSY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=85)
+    - [ ] [Video: "Setting Up the Analog Discovery 2 Portable Lab Instrument", YouTube](https://www.youtube.com/watch?v=07uSLwIzGSY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=85)
 
 ## Embedded Hardware
 [ ] [Article: "Getting to Know the Hardware", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/hardware-processor-peripherals)
@@ -155,7 +155,7 @@ This document is a collection of resources for learning embedded systems enginee
 [ ] [Video: "Word Size and Data Types", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/2-word-size-and-data-types-53eDm)
 
 - #### RISC
-    - [Website: "RISC-V Educational Materials", RISC-V](https://riscv.org/community/learn-about-risc-v/educational-materials/)
+    - [ ] [Website: "RISC-V Educational Materials", RISC-V](https://riscv.org/community/learn-about-risc-v/educational-materials/)
 
 - #### ARM
     - [ ] [Video: "ARM University, ARM Architecture Fundamentals", YouTube](https://www.youtube.com/watch?v=7LqPJGnBPMM)
@@ -267,17 +267,17 @@ This document is a collection of resources for learning embedded systems enginee
 
 - #### Pin Modes
     - #### Pull Up/Down
-        [ ] [Article: "Using Pull-Up and Pull-Down Resistors", Stratify Labs](https://blog.stratifylabs.co/device/2013-10-25-Using-Pull-Up-and-Pull-Down-Resistors/)
+        - [ ] [Article: "Using Pull-Up and Pull-Down Resistors", Stratify Labs](https://blog.stratifylabs.co/device/2013-10-25-Using-Pull-Up-and-Pull-Down-Resistors/)
     - #### Push-Pull
-        [ ] [Video: "GPIO Output Configuration | Open Drain configuration | Push Pull configuration", YouTube](https://www.youtube.com/watch?v=IjKDKGqCm_4)
+        - [ ] [Video: "GPIO Output Configuration | Open Drain configuration | Push Pull configuration", YouTube](https://www.youtube.com/watch?v=IjKDKGqCm_4)
     - #### Open-Drain
-        [ ] [Video: "GPIO Output Mode: Working of Open Drain Configuration", YouTube](https://www.youtube.com/watch?v=YQ5fkusMIMA)
+        - [ ] [Video: "GPIO Output Mode: Working of Open Drain Configuration", YouTube](https://www.youtube.com/watch?v=YQ5fkusMIMA)
 
 - #### Direction
     - #### Input
-        [ ] [Video: "MSP430 - Digital Inputs & Polling", YouTube](https://www.youtube.com/watch?v=_6tTvj_D2UA&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=73)
+        - [ ] [Video: "MSP430 - Digital Inputs & Polling", YouTube](https://www.youtube.com/watch?v=_6tTvj_D2UA&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=73)
     - #### Output
-        [ ] [Video: "MSP430 - Digital Outputs", YouTube](https://www.youtube.com/watch?v=phxF_q44G1Y&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=72)
+        - [ ] [Video: "MSP430 - Digital Outputs", YouTube](https://www.youtube.com/watch?v=phxF_q44G1Y&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=72)
 
 ### Analog Input
 - #### ADC
@@ -294,9 +294,9 @@ This document is a collection of resources for learning embedded systems enginee
 
 ### Analog Output
 - #### PWM
-    [ ] [Video: "MSP430 - Creating PWM Signals using Timer Compares", YouTube](https://www.youtube.com/watch?v=JvoYbDhFBUY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=80)
+    - [ ] [Video: "MSP430 - Creating PWM Signals using Timer Compares", YouTube](https://www.youtube.com/watch?v=JvoYbDhFBUY&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=80)
 - #### DAC
-    [ ] [Article: "About Digital to Analog Converter (DAC) and Its Applications", ElProCus](https://www.elprocus.com/digital-to-analog-converter-dac-applications/)
+    - [ ] [Article: "About Digital to Analog Converter (DAC) and Its Applications", ElProCus](https://www.elprocus.com/digital-to-analog-converter-dac-applications/)
 
 ### Timer
 [ ] [Article: "Introduction to Microcontrollers - More Timers and Displays", Embedded Related](https://www.embeddedrelated.com/showarticle/485.php)
@@ -313,20 +313,20 @@ This document is a collection of resources for learning embedded systems enginee
 [ ] [Video: "Optimizing C for Microcontrollers - Best Practices - Khem Raj, Comcast RDK", YouTube](https://www.youtube.com/watch?v=GYAhbYnObLI)
 
 - #### Power
-    [ ] [Video: "How To Lower AVR Microcontroller Power using Power Reduction Registers", YouTube](https://www.youtube.com/watch?v=S82BSPbYoVA)
+    - [ ] [Video: "How To Lower AVR Microcontroller Power using Power Reduction Registers", YouTube](https://www.youtube.com/watch?v=S82BSPbYoVA)
 
-    [ ] [Video: "Atmel: picoPower Labs - Basic Power-Saving Techniques", YouTube](https://www.youtube.com/watch?v=bdWV-tOTVSE)
+    - [ ] [Video: "Atmel: picoPower Labs - Basic Power-Saving Techniques", YouTube](https://www.youtube.com/watch?v=bdWV-tOTVSE)
 
-    [ ] [Video: "Microcontroller Design Considerations for Ultra Low Power Applications", YouTube](https://www.youtube.com/watch?v=pX0gamab5IM)
+    - [ ] [Video: "Microcontroller Design Considerations for Ultra Low Power Applications", YouTube](https://www.youtube.com/watch?v=pX0gamab5IM)
 
-    [ ] [Video: "Ultra Low Power Microcontroller Design", YouTube](https://www.youtube.com/watch?v=yyoR0o5YBVI)
+    - [ ] [Video: "Ultra Low Power Microcontroller Design", YouTube](https://www.youtube.com/watch?v=yyoR0o5YBVI)
 
 - #### Memory
-    [ ] [Article: "Memory", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/memory-ram-rom-flash)
+    - [ ] [Article: "Memory", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/memory-ram-rom-flash)
 
-    [ ] [Video: "Interacting with Memory", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/4-interacting-with-memory-hUTQp)
+    - [ ] [Video: "Interacting with Memory", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/4-interacting-with-memory-hUTQp)
 
-    [ ] [Video: "Different Types of Memory in Microcontroller : Flash Memory, SRAM and EEPROM", YouTube](https://www.youtube.com/watch?v=4WnTTL_7a1g)
+    - [ ] [Video: "Different Types of Memory in Microcontroller : Flash Memory, SRAM and EEPROM", YouTube](https://www.youtube.com/watch?v=4WnTTL_7a1g)
 
     - #### Program (ROM)
 
@@ -344,7 +344,7 @@ This document is a collection of resources for learning embedded systems enginee
 
 - #### GNU/Linux
 - #### Real Time Operating Systems
-    - [Blog: "RTOS", Barr Group](https://barrgroup.com/blog-tag/rtos)
+    - [ ] [Blog: "RTOS", Barr Group](https://barrgroup.com/blog-tag/rtos)
 
 ## Embedded Software
 [ ] [Video: "Computer Software", YouTube](https://www.youtube.com/watch?v=E9f5fHlEl5s&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=4)
@@ -431,7 +431,7 @@ This document is a collection of resources for learning embedded systems enginee
 
 [ ] [Video: "Tech Talk: Are Coding Standards & Static Analysis Really That Important?", YouTube](https://www.youtube.com/watch?v=r9f7oVgYoMk)
 
-[Blog: "Coding Standards", Barr Group](https://barrgroup.com/blog-tag/coding-standards)
+[ ] [Blog: "Coding Standards", Barr Group](https://barrgroup.com/blog-tag/coding-standards)
 
 - #### MISRA
     - [ ] [Video: "An Introduction to MISRA C - Excerpt from An Introduction to MISRA C:2012 Webinar", YouTube](https://www.youtube.com/watch?v=6a9Fwvvp92I)
@@ -457,15 +457,15 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 ### Hardware Abstraction Layer
 [ ] [Video: "The Nios® II Processor: Hardware Abstraction Layer", YouTube](https://www.youtube.com/watch?v=HF7Low_sUig)
 
-[Textbook: "Reusable Firmware Development: A Practical Approach to APIs, HALs and Drivers", Amazon](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach-ebook-dp-B07811CX8Q/dp/B07811CX8Q/ref=mt_other?_encoding=UTF8&me=&qid=)
+[ ] [Textbook: "Reusable Firmware Development: A Practical Approach to APIs, HALs and Drivers", Amazon](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach-ebook-dp-B07811CX8Q/dp/B07811CX8Q/ref=mt_other?_encoding=UTF8&me=&qid=)
 
 - #### Register Definition Files
-    [ ] [Video: "Register Definition Files", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/9-register-definition-files-6pqVq)
+    - [ ] [Video: "Register Definition Files", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/9-register-definition-files-6pqVq)
 
 - #### Memory Access Methods
 
 - #### Board Support Package
-    [ ] [Video: "0x1b7 What is a BSP | Board Support Package | Big Picture | Embedded Systems Software Development", YouTube](https://www.youtube.com/watch?v=Bn_6kxRTTSM)
+    - [ ] [Video: "0x1b7 What is a BSP | Board Support Package | Big Picture | Embedded Systems Software Development", YouTube](https://www.youtube.com/watch?v=Bn_6kxRTTSM)
 
 ### Application Layer
 - #### Data Structures and Algorithms
@@ -490,9 +490,9 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 
 - #### Domain Knowledge
     - #### Digital Signal Processing
-        [ ] [Video: "Learn Embedded Systems Design on ARM based Microcontrollers 1 of 2", YouTube](https://www.youtube.com/watch?v=GFjA7wooCZ8)
+        - [ ] [Video: "Learn Embedded Systems Design on ARM based Microcontrollers 1 of 2", YouTube](https://www.youtube.com/watch?v=GFjA7wooCZ8)
 
-        [ ] [Video: "Learn DSP on ARM based Microcontrollers 2 of 2", YouTube](https://www.youtube.com/watch?v=TO66UN64-os)
+        - [ ] [Video: "Learn DSP on ARM based Microcontrollers 2 of 2", YouTube](https://www.youtube.com/watch?v=TO66UN64-os)
 
         - #### FFT
             - [ ] [Video: "Digital Signal Processing (DSP) Tutorial - DSP with the Fast Fourier Transform Algorithm", YouTube](https://www.youtube.com/watch?v=HJ_-5mqUZ70)
@@ -526,7 +526,7 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 ## Debugging
 [ ] [Article: "Downloading and Debugging", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/downloading-debugging)
 
- [Blog: "Debugging", Barr Group](https://barrgroup.com/blog-tag/debugging)
+ [ ] [Blog: "Debugging", Barr Group](https://barrgroup.com/blog-tag/debugging)
 
 ### Static Analysis
 - [ ] [Video: "Static Code Analysis: Scan All Your Code For Bugs", YouTube](https://www.youtube.com/watch?v=Heor8BVa4A0)
@@ -546,10 +546,10 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 - [ ] [Video: "How to test Automotive Serial Buses with Oscilloscopes", YouTube](https://www.youtube.com/watch?v=TJK3m91ki7o)
 
 ### JTAG
-- [ ] [Video: "", YouTube]()
+- [ ] [Video: "JTAG Debugging Tutorial", YouTube](https://www.youtube.com/watch?v=TlWlLeC5BUs)
 
 ### SWD
-- [ ] [Video: "", YouTube]()
+- [ ] [Video: "ARM SWD (Serial Wire Debug) Tutorial", YouTube](https://www.youtube.com/watch?v=qMUzLmGNNXE)
 
 ## Testing and Quality Management
 ### Phil Koopman Lectures
