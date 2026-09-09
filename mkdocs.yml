@@ -1,0 +1,133 @@
+site_name: Learn Embedded Systems
+site_description: A calm, checkable path from "what is a microcontroller" to job-ready embedded engineer. Free resources, hands-on checkpoints, no fluff.
+site_author: Erin Jense and contributors
+site_url: https://erinjense.github.io/Learn-Embedded-Systems/
+repo_url: https://github.com/erinjense/Learn-Embedded-Systems
+repo_name: erinjense/Learn-Embedded-Systems
+edit_uri: edit/master/docs/
+copyright: >
+  Text and structure licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  Linked resources belong to their authors. Your checkbox progress is stored only in your browser.
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/chip
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/checklist.js
+
+hooks:
+  - hooks/progress.py
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - start-here/index.md
+      - Where do I start?: start-here/where-do-i-start.md
+      - Gear list: start-here/gear.md
+      - How to use this guide: start-here/how-to-use.md
+  - "Phase 1 · Foundations":
+      - phase-1-foundations/index.md
+      - 1. Electronics you actually need: phase-1-foundations/01-electronics.md
+      - 2. C, learned properly: phase-1-foundations/02-c-for-embedded.md
+      - 3. Your first board (Pico 2): phase-1-foundations/03-first-board-pico.md
+  - "Phase 2 · Core":
+      - phase-2-core/index.md
+      - 4. How a microcontroller works: phase-2-core/04-how-an-mcu-works.md
+      - 5. Peripherals: phase-2-core/05-peripherals.md
+      - 6. Communication: phase-2-core/06-communication.md
+      - 7. Toolchain and build: phase-2-core/07-toolchain-and-build.md
+  - "Phase 3 · Professional":
+      - phase-3-professional/index.md
+      - 8. Stepping up to STM32: phase-3-professional/08-stepping-up-stm32.md
+      - 9. Firmware architecture and testing: phase-3-professional/09-firmware-architecture.md
+      - 10. Real time and RTOS: phase-3-professional/10-rtos-and-real-time.md
+      - 11. Debugging and measurement: phase-3-professional/11-debugging-and-measurement.md
+  - "Phase 4 · Specializations":
+      - phase-4-specializations/index.md
+      - 12. Low power: phase-4-specializations/12-low-power.md
+      - 13. Robustness (ESD, EMI, EFT): phase-4-specializations/13-robustness.md
+      - 14. Safety and security: phase-4-specializations/14-safety-and-security.md
+      - 15. Embedded Linux: phase-4-specializations/15-embedded-linux.md
+      - 16. Wireless: phase-4-specializations/16-wireless.md
+      - 17. Signals, control, motors: phase-4-specializations/17-dsp-control-motors.md
+  - "Phase 5 · Beyond":
+      - phase-5-beyond/index.md
+      - 18. Using AI well: phase-5-beyond/18-using-ai-well.md
+      - 19. Capstone projects: phase-5-beyond/19-capstone-projects.md
+      - 20. Career and community: phase-5-beyond/20-career-and-community.md
+  - Appendix:
+      - appendix/index.md
+      - Books: appendix/books.md
+      - The original MSP430 course: appendix/legacy-msp430-course.md
+      - Glossary: appendix/glossary.md
+      - Changelog: appendix/changelog.md
+      - Contributing: appendix/contributing.md
