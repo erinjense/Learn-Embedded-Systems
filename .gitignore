@@ -1,0 +1,7 @@
+site/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+tools/last-link-check.json
