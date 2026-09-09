@@ -1,6 +1,3 @@
----
-progress: false
----
 # The original MSP430 course
 
 The 2020 edition of this guide was organized around one free university video course: **[Intro to Embedded Systems Design with the MSP430FR2355](https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm)** by the YouTube channel [Digital Logic & Programming](https://www.youtube.com/@digitallogicprogramming2199). It is a complete, lecture-style course on a Texas Instruments 16-bit microcontroller, and every video was still online when we checked in September 2026.

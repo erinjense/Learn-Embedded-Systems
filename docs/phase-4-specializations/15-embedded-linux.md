@@ -42,9 +42,12 @@ When a product needs a screen, a network stack, a camera, or serious computation
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Docs</span> **[The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)** <span class="les-time">Reference</span><br>Official, comprehensive, and better than it used to be.
-    - [ ] <span class="les-tag">Community</span> **[eLinux.org wiki](https://elinux.org/Main_Page)** <span class="les-time">Browse</span><br>A long-running community wiki with board pages, tutorials, and history.
-    - [ ] <span class="les-tag">Book</span> **[Linux Device Drivers, 3rd Edition](https://lwn.net/Kernel/LDD3/)** <span class="les-time">Free</span><br>From 2005 and the APIs have changed, but the mental model of the kernel it teaches is still correct. Read with the current docs beside it.
-    - [ ] <span class="les-tag">Docs</span> **[BeagleBoard](https://www.beagleboard.org/)** <span class="les-time">Browse</span><br>The other classic learning SBC family, with fully open hardware and a strong industrial heritage.
+- [ ] <span class="les-tag">Docs</span> **[The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)** <span class="les-time">Reference</span><br>Official, comprehensive, and better than it used to be.
+- [ ] <span class="les-tag">Community</span> **[eLinux.org wiki](https://elinux.org/Main_Page)** <span class="les-time">Browse</span><br>A long-running community wiki with board pages, tutorials, and history.
+- [ ] <span class="les-tag">Book</span> **[Linux Device Drivers, 3rd Edition](https://lwn.net/Kernel/LDD3/)** <span class="les-time">Free</span><br>From 2005 and the APIs have changed, but the mental model of the kernel it teaches is still correct. Read with the current docs beside it.
+- [ ] <span class="les-tag">Docs</span> **[BeagleBoard](https://www.beagleboard.org/)** <span class="les-time">Browse</span><br>The other classic learning SBC family, with fully open hardware and a strong industrial heritage.
+
+</details>

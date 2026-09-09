@@ -55,9 +55,12 @@ There is no single great free resource on motor drive for firmware engineers, so
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[Brian Douglas's channel](https://www.youtube.com/@BrianBDouglas)** <span class="les-time">Browse</span><br>Control theory explained visually: Bode plots, state space, Kalman filters, and more.
-    - [ ] <span class="les-tag">Book</span> **[The Scientist and Engineer's Guide to DSP, full text](https://www.dspguide.com/pdfbook.htm)** <span class="les-time">Reference</span><br>The rest of the book: windowing, audio, image processing, and fixed-point arithmetic.
-    - **Sensor fusion in one line:** combining an accelerometer and a gyroscope into a stable orientation estimate is a complementary or Kalman filter problem, and it is the gateway to robotics and drones. Douglas's channel has an accessible Kalman filter series.
-    - **Displays and UI:** [LVGL](https://lvgl.io/) is the open-source graphics library most MCU products with screens use. Not a signals topic, but it lands here because products that measure things usually show them.
+- [ ] <span class="les-tag">Video</span> **[Brian Douglas's channel](https://www.youtube.com/@BrianBDouglas)** <span class="les-time">Browse</span><br>Control theory explained visually: Bode plots, state space, Kalman filters, and more.
+- [ ] <span class="les-tag">Book</span> **[The Scientist and Engineer's Guide to DSP, full text](https://www.dspguide.com/pdfbook.htm)** <span class="les-time">Reference</span><br>The rest of the book: windowing, audio, image processing, and fixed-point arithmetic.
+- **Sensor fusion in one line:** combining an accelerometer and a gyroscope into a stable orientation estimate is a complementary or Kalman filter problem, and it is the gateway to robotics and drones. Douglas's channel has an accessible Kalman filter series.
+- **Displays and UI:** [LVGL](https://lvgl.io/) is the open-source graphics library most MCU products with screens use. Not a signals topic, but it lands here because products that measure things usually show them.
+
+</details>

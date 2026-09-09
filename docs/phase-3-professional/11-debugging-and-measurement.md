@@ -55,10 +55,13 @@ Senior engineers are not faster typists. They find the bug in an hour that takes
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[EEVblog #44: Logic Analyzer Tutorial](https://www.youtube.com/watch?v=TWKY6W1C9yM)** <span class="les-time">~40 min</span><br>If you skipped it in Module 6.
-    - [ ] <span class="les-tag">Video</span> **[How to Test Automotive Serial Buses with Oscilloscopes](https://www.youtube.com/watch?v=TJK3m91ki7o)** <span class="les-time">~30 min</span><br>Scope-based CAN and LIN debugging.
-    - [ ] <span class="les-tag">Docs</span> **[GDB documentation](https://sourceware.org/gdb/documentation/)** <span class="les-time">Reference</span><br>For when a blog post is not enough.
-    - [ ] <span class="les-tag">Article</span> **[Debugging articles](https://barrgroup.com/blog-tag/debugging)** by Barr Group <span class="les-time">Browse</span><br>Short pieces on specific debugging techniques.
-    - **Choosing a first oscilloscope:** a 4-channel, 100 MHz or better, 12-bit digital scope with serial decoding from Rigol or Siglent is a lifetime tool for a few hundred dollars. More bandwidth is not the priority for firmware work; channel count and decode are.
+- [ ] <span class="les-tag">Video</span> **[EEVblog #44: Logic Analyzer Tutorial](https://www.youtube.com/watch?v=TWKY6W1C9yM)** <span class="les-time">~40 min</span><br>If you skipped it in Module 6.
+- [ ] <span class="les-tag">Video</span> **[How to Test Automotive Serial Buses with Oscilloscopes](https://www.youtube.com/watch?v=TJK3m91ki7o)** <span class="les-time">~30 min</span><br>Scope-based CAN and LIN debugging.
+- [ ] <span class="les-tag">Docs</span> **[GDB documentation](https://sourceware.org/gdb/documentation/)** <span class="les-time">Reference</span><br>For when a blog post is not enough.
+- [ ] <span class="les-tag">Article</span> **[Debugging articles](https://barrgroup.com/blog-tag/debugging)** by Barr Group <span class="les-time">Browse</span><br>Short pieces on specific debugging techniques.
+- **Choosing a first oscilloscope:** a 4-channel, 100 MHz or better, 12-bit digital scope with serial decoding from Rigol or Siglent is a lifetime tool for a few hundred dollars. More bandwidth is not the priority for firmware work; channel count and decode are.
+
+</details>

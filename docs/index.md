@@ -1,8 +1,3 @@
----
-title: Home
-hide:
-  - toc
----
 
 # Learn Embedded Systems
 
@@ -10,25 +5,32 @@ hide:
 Free resources first. Hands-on checkpoints in every module. Nothing you don't need.
 
 <div class="les-grid" markdown>
+
 <div class="les-card" markdown>
+
 <span class="les-kicker">Who this is for</span>
-### Anyone who wants to really understand it
+<p class="les-card__title">Anyone who wants to really understand it</p>
 High schoolers with a soldering iron, CS students who never touched a register, and working engineers switching into firmware. There is one path with three entry points.
+
 </div>
 <div class="les-card" markdown>
+
 <span class="les-kicker">How it works</span>
-### Learn · Do · Check
+<p class="les-card__title">Learn · Do · Check</p>
 Each module gives you a two-minute overview, the two to five best resources, a hands-on checkpoint on real hardware, and a few questions to test yourself. Tick boxes as you go. Progress is saved in your browser.
+
 </div>
 <div class="les-card" markdown>
+
 <span class="les-kicker">Our stance on AI</span>
-### Learn it without AI first
+<p class="les-card__title">Learn it without AI first</p>
 Understand each concept well enough to explain it to a rubber duck. Then use AI to move faster. [Module 18](phase-5-beyond/18-using-ai-well.md) shows how professionals use it without losing the skill.
-</div>
+
 </div>
 
-[Where do I start?](start-here/where-do-i-start.md){ .md-button .md-button--primary }
-[See the gear list](start-here/gear.md){ .md-button }
+</div>
+
+**[Where do I start? →](start-here/where-do-i-start.md)** · **[See the gear list →](start-here/gear.md)**
 
 ## The map
 
@@ -46,11 +48,12 @@ Five phases. Do them in order the first time through; the phase pages explain wh
 
 <div data-les-overview markdown>
 <p>Loading your progress...</p>
+
 </div>
 
-!!! tip "Nothing leaves your browser"
-    Checkbox state is stored in this browser only. Use the tools on the [How to use this guide](start-here/how-to-use.md) page to copy it to another device or reset it.
-
+> **Nothing leaves your browser**
+>
+> Checkbox state is stored in this browser only. Use the tools on the [How to use this guide](start-here/how-to-use.md) page to copy it to another device or reset it.
 ## About this guide
 
 The first version was written by [Erin Jense](https://github.com/erinjense) in 2020 as a personal reading list and, to the author's surprise, picked up a following. This 2026 edition keeps the checkbox spirit, drops what has gone stale, adds what the industry now expects, and organizes everything so you always know where you are and what comes next.

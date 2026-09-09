@@ -51,12 +51,15 @@ Every datasheet has these sections somewhere. The skill is finding them fast.
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Book</span> **[Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/)** by CircuitLab <span class="les-time">Free, read chapters as needed</span><br>A free, interactive textbook with embedded simulations. The clearest modern introduction.
-    - [ ] <span class="les-tag">Book</span> **[All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/)** <span class="les-time">Free reference</span><br>Encyclopedic. Use it to look things up, not to read cover to cover.
-    - [ ] <span class="les-tag">Video</span> **[Digital electronics tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D)** by Ben Eater <span class="les-time">~3 h</span><br>Logic gates, latches, and flip-flops built on a breadboard. The bridge from electronics to computing.
-    - [ ] <span class="les-tag">Article</span> **[Capacitors](https://learn.sparkfun.com/tutorials/capacitors)**, **[Diodes](https://learn.sparkfun.com/tutorials/diodes)**, **[Transistors](https://learn.sparkfun.com/tutorials/transistors)** by SparkFun <span class="les-time">~1.5 h</span><br>The other three components you will see on every board, and why every chip has a 0.1 µF capacitor next to it.
-    - [ ] <span class="les-tag">Article</span> **[Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering)** <span class="les-time">~45 min</span><br>When you buy a board without headers, this is how not to ruin it.
-    - [ ] <span class="les-tag">Course</span> **[Khan Academy Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)** <span class="les-time">Many hours</span><br>If you want the math behind circuits, this is patient and free.
-    - [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[The Art of Electronics](https://artofelectronics.net/)** by Horowitz and Hill<br>The reference every hardware engineer owns. Not a beginner book. Buy it once you know you are staying.
+- [ ] <span class="les-tag">Book</span> **[Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/)** by CircuitLab <span class="les-time">Free, read chapters as needed</span><br>A free, interactive textbook with embedded simulations. The clearest modern introduction.
+- [ ] <span class="les-tag">Book</span> **[All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/)** <span class="les-time">Free reference</span><br>Encyclopedic. Use it to look things up, not to read cover to cover.
+- [ ] <span class="les-tag">Video</span> **[Digital electronics tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D)** by Ben Eater <span class="les-time">~3 h</span><br>Logic gates, latches, and flip-flops built on a breadboard. The bridge from electronics to computing.
+- [ ] <span class="les-tag">Article</span> **[Capacitors](https://learn.sparkfun.com/tutorials/capacitors)**, **[Diodes](https://learn.sparkfun.com/tutorials/diodes)**, **[Transistors](https://learn.sparkfun.com/tutorials/transistors)** by SparkFun <span class="les-time">~1.5 h</span><br>The other three components you will see on every board, and why every chip has a 0.1 µF capacitor next to it.
+- [ ] <span class="les-tag">Article</span> **[Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering)** <span class="les-time">~45 min</span><br>When you buy a board without headers, this is how not to ruin it.
+- [ ] <span class="les-tag">Course</span> **[Khan Academy Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)** <span class="les-time">Many hours</span><br>If you want the math behind circuits, this is patient and free.
+- [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[The Art of Electronics](https://artofelectronics.net/)** by Horowitz and Hill<br>The reference every hardware engineer owns. Not a beginner book. Buy it once you know you are staying.
+
+</details>

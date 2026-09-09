@@ -53,9 +53,12 @@ You need four primitives and no more: a **hash** (SHA-256) to fingerprint data, 
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Community</span> **[Better Embedded System Software](https://betterembsw.blogspot.com/)** by Phil Koopman <span class="les-time">Browse</span><br>Koopman's blog, with a checklist of embedded software risks that doubles as a review guide.
-    - [ ] <span class="les-tag">Docs</span> **[PSA Certified](https://www.psacertified.org/)** <span class="les-time">Browse</span><br>Certified chips and reference implementations, if your product needs a certificate.
-    - [ ] <span class="les-tag">Docs</span> **[Trusted Firmware](https://www.trustedfirmware.org/)** <span class="les-time">Browse</span><br>Open-source secure boot and secure world firmware for Arm.
-    - **Fault injection and side channels**, in one line: attackers with physical access glitch clocks and power supplies to skip instructions and read power traces to extract keys. Know the words; defending against them is specialist work.
+- [ ] <span class="les-tag">Community</span> **[Better Embedded System Software](https://betterembsw.blogspot.com/)** by Phil Koopman <span class="les-time">Browse</span><br>Koopman's blog, with a checklist of embedded software risks that doubles as a review guide.
+- [ ] <span class="les-tag">Docs</span> **[PSA Certified](https://www.psacertified.org/)** <span class="les-time">Browse</span><br>Certified chips and reference implementations, if your product needs a certificate.
+- [ ] <span class="les-tag">Docs</span> **[Trusted Firmware](https://www.trustedfirmware.org/)** <span class="les-time">Browse</span><br>Open-source secure boot and secure world firmware for Arm.
+- **Fault injection and side channels**, in one line: attackers with physical access glitch clocks and power supplies to skip instructions and read power traces to extract keys. Know the words; defending against them is specialist work.
+
+</details>
