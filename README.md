@@ -1,10 +1,15 @@
 # Learn Embedded Systems
 
+<p align="center">
+  <a href="https://erinjense.github.io/Learn-Embedded-Systems/"><img alt="Read the guide online" src="https://img.shields.io/badge/%E2%96%B6%20Read%20the%20guide%20online-erinjense.github.io-0f766e?style=for-the-badge"></a>
+  <a href="https://erinjense.github.io/Learn-Embedded-Systems/start-here/where-do-i-start/"><img alt="Where do I start?" src="https://img.shields.io/badge/Where%20do%20I%20start%3F-pick%20an%20entry%20point-2dd4bf?style=for-the-badge"></a>
+</p>
+
 **A calm, checkable path from "what is a microcontroller?" to job-ready embedded engineer.**
 Free resources first. Hands-on checkpoints in every module. Nothing you don't need.
 
-**Read it as a website:** https://erinjense.github.io/Learn-Embedded-Systems/ (checkboxes save in your browser)
-**Or read it here:** start with [Where do I start?](docs/start-here/where-do-i-start.md), then follow the map below. Fork the repo to tick boxes in the Markdown.
+> **The website is the best way to use this guide.**
+> **[erinjense.github.io/Learn-Embedded-Systems](https://erinjense.github.io/Learn-Embedded-Systems/)** has clickable checkboxes that remember your progress, a progress overview, search, and dark mode. This repository holds the same content as plain Markdown; read it here if you prefer, or fork it to tick boxes in the files.
 
 ## Who this is for
 
