@@ -57,9 +57,12 @@ Buy the Phase 2 add-ons from the [gear list](../start-here/gear.md) now. A logic
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[What is RS232 and What is it Used for?](https://www.youtube.com/watch?v=eo9dbnrpspM)** and **[What is RS485 and How it's Used in Industrial Control Systems?](https://www.youtube.com/watch?v=3wgKcUDlHuM)** by RealPars <span class="les-time">~20 min</span><br>Plant-floor context for the two serial standards you will find on industrial equipment.
-    - [ ] <span class="les-tag">Video</span> **[How to Test Automotive Serial Buses with Oscilloscopes](https://www.youtube.com/watch?v=TJK3m91ki7o)** <span class="les-time">~30 min</span><br>CAN, LIN, and FlexRay on a scope. Useful once you own one (Module 11).
-    - [ ] <span class="les-tag">Docs</span> **[TinyUSB on GitHub](https://docs.tinyusb.org/en/latest/)** <span class="les-time">Reference</span><br>The USB stack the Pico SDK uses. Make your board show up as a USB serial port, a keyboard, and a mass-storage device.
-    - **Modbus**, in one line: a 1979 protocol that runs over RS-485 (Modbus RTU) or TCP, still everywhere in industrial equipment. If a job mentions PLCs, learn it.
+- [ ] <span class="les-tag">Video</span> **[What is RS232 and What is it Used for?](https://www.youtube.com/watch?v=eo9dbnrpspM)** and **[What is RS485 and How it's Used in Industrial Control Systems?](https://www.youtube.com/watch?v=3wgKcUDlHuM)** by RealPars <span class="les-time">~20 min</span><br>Plant-floor context for the two serial standards you will find on industrial equipment.
+- [ ] <span class="les-tag">Video</span> **[How to Test Automotive Serial Buses with Oscilloscopes](https://www.youtube.com/watch?v=TJK3m91ki7o)** <span class="les-time">~30 min</span><br>CAN, LIN, and FlexRay on a scope. Useful once you own one (Module 11).
+- [ ] <span class="les-tag">Docs</span> **[TinyUSB on GitHub](https://docs.tinyusb.org/en/latest/)** <span class="les-time">Reference</span><br>The USB stack the Pico SDK uses. Make your board show up as a USB serial port, a keyboard, and a mass-storage device.
+- **Modbus**, in one line: a 1979 protocol that runs over RS-485 (Modbus RTU) or TCP, still everywhere in industrial equipment. If a job mentions PLCs, learn it.
+
+</details>

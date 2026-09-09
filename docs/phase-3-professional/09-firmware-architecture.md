@@ -67,10 +67,13 @@ Build these as one growing project on the Nucleo. It becomes the base for Module
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Book</span> **[Practical UML Statecharts in C/C++, 2nd ed.](https://www.state-machine.com/psicc2)** by Miro Samek <span class="les-time">Free PDF</span><br>The full treatment of hierarchical state machines and active objects.
-    - [ ] <span class="les-tag">Book</span> **[Programming Embedded Systems](https://barrgroup.com/embedded-systems/books/programming-embedded-systems)** by Michael Barr and Anthony Massa <span class="les-time">Free online chapters</span><br>The 2006 classic, free chapter by chapter. Dated examples, timeless structure.
-    - [ ] <span class="les-tag">Video</span> **[Circular Buffer Implementation in C](https://www.youtube.com/watch?v=uvD9_Wdtjtw)** and **[Producer Consumer Pattern](https://www.youtube.com/watch?v=VXJSJ6c3ZIs)** <span class="les-time">~30 min</span><br>Two short videos if the articles were not enough.
-    - [ ] <span class="les-tag">Article</span> **[Secure Firmware Updates with Code Signing](https://interrupt.memfault.com/blog/secure-firmware-updates-with-code-signing)** by Memfault Interrupt <span class="les-time">~1 h</span><br>The next step after the DFU cookbook. Returns in Module 14.
-    - [ ] <span class="les-tag">Community</span> **[Embedded Artistry](https://embeddedartistry.com/)** and **[Beningo Embedded Group](https://www.beningo.com/)** <span class="les-time">Ongoing</span><br>Two practitioners who write constantly about firmware architecture, process, and quality.
+- [ ] <span class="les-tag">Book</span> **[Practical UML Statecharts in C/C++, 2nd ed.](https://www.state-machine.com/psicc2)** by Miro Samek <span class="les-time">Free PDF</span><br>The full treatment of hierarchical state machines and active objects.
+- [ ] <span class="les-tag">Book</span> **[Programming Embedded Systems](https://barrgroup.com/embedded-systems/books/programming-embedded-systems)** by Michael Barr and Anthony Massa <span class="les-time">Free online chapters</span><br>The 2006 classic, free chapter by chapter. Dated examples, timeless structure.
+- [ ] <span class="les-tag">Video</span> **[Circular Buffer Implementation in C](https://www.youtube.com/watch?v=uvD9_Wdtjtw)** and **[Producer Consumer Pattern](https://www.youtube.com/watch?v=VXJSJ6c3ZIs)** <span class="les-time">~30 min</span><br>Two short videos if the articles were not enough.
+- [ ] <span class="les-tag">Article</span> **[Secure Firmware Updates with Code Signing](https://interrupt.memfault.com/blog/secure-firmware-updates-with-code-signing)** by Memfault Interrupt <span class="les-time">~1 h</span><br>The next step after the DFU cookbook. Returns in Module 14.
+- [ ] <span class="les-tag">Community</span> **[Embedded Artistry](https://embeddedartistry.com/)** and **[Beningo Embedded Group](https://www.beningo.com/)** <span class="les-time">Ongoing</span><br>Two practitioners who write constantly about firmware architecture, process, and quality.
+
+</details>

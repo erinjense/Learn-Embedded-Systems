@@ -1,6 +1,3 @@
----
-progress: false
----
 # How to use this guide
 
 ## The shape of a module

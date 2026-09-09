@@ -51,9 +51,12 @@
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Docs</span> **[FreeRTOS documentation](https://www.freertos.org/Documentation/00-Overview)** <span class="les-time">Reference</span><br>The API reference and the kernel configuration options you will tune.
-    - [ ] <span class="les-tag">Video</span> **[Embedded Security, Safety and Software Quality](https://www.youtube.com/playlist?list=PL_DQiOR0jhbXFZtjw6U-19X0jPDmg4UoR)** by Phil Koopman <span class="les-time">Concurrency and timing lectures, ~1.5 h</span><br>Race conditions and timing failures as they show up in shipped products.
-    - [ ] <span class="les-tag">Community</span> **[Golioth blog](https://blog.golioth.io/)** <span class="les-time">Ongoing</span><br>Practical Zephyr articles from a team that uses it daily.
-    - **Other RTOSes**, in one line each: **Eclipse ThreadX** (formerly Azure RTOS, safety-certified, now open source), **Micrium µC/OS** (classic, now open source), **RTX** (Arm's own, part of CMSIS). If you know FreeRTOS and Zephyr, the others take an afternoon.
+- [ ] <span class="les-tag">Docs</span> **[FreeRTOS documentation](https://www.freertos.org/Documentation/00-Overview)** <span class="les-time">Reference</span><br>The API reference and the kernel configuration options you will tune.
+- [ ] <span class="les-tag">Video</span> **[Embedded Security, Safety and Software Quality](https://www.youtube.com/playlist?list=PL_DQiOR0jhbXFZtjw6U-19X0jPDmg4UoR)** by Phil Koopman <span class="les-time">Concurrency and timing lectures, ~1.5 h</span><br>Race conditions and timing failures as they show up in shipped products.
+- [ ] <span class="les-tag">Community</span> **[Golioth blog](https://blog.golioth.io/)** <span class="les-time">Ongoing</span><br>Practical Zephyr articles from a team that uses it daily.
+- **Other RTOSes**, in one line each: **Eclipse ThreadX** (formerly Azure RTOS, safety-certified, now open source), **Micrium µC/OS** (classic, now open source), **RTX** (Arm's own, part of CMSIS). If you know FreeRTOS and Zephyr, the others take an afternoon.
+
+</details>

@@ -42,9 +42,12 @@ We use the Raspberry Pi Pico 2 because it is about $5, its documentation is unus
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Docs</span> **[Raspberry Pi Pico-series C/C++ SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)** <span class="les-time">Reference</span><br>Every SDK function, and the CMake build structure explained.
-    - [ ] <span class="les-tag">Docs</span> **[Pico-series documentation hub](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)** <span class="les-time">Reference</span><br>Everything official in one place.
-    - [ ] <span class="les-tag">Article</span> **[Videos Teach Bare Metal RP2040](https://hackaday.com/2023/03/09/videos-teach-bare-metal-rp2040/)** by Hackaday <span class="les-time">~5 min</span><br>Context on the Low Byte Productions series and why bare metal is worth the effort.
-    - [ ] <span class="les-tag">Interactive</span> **[Wokwi](https://wokwi.com/)** <span class="les-time">Optional</span><br>A browser simulator for the Pico and other boards. Useful when you are away from your desk, not a replacement for hardware.
+- [ ] <span class="les-tag">Docs</span> **[Raspberry Pi Pico-series C/C++ SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)** <span class="les-time">Reference</span><br>Every SDK function, and the CMake build structure explained.
+- [ ] <span class="les-tag">Docs</span> **[Pico-series documentation hub](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)** <span class="les-time">Reference</span><br>Everything official in one place.
+- [ ] <span class="les-tag">Article</span> **[Videos Teach Bare Metal RP2040](https://hackaday.com/2023/03/09/videos-teach-bare-metal-rp2040/)** by Hackaday <span class="les-time">~5 min</span><br>Context on the Low Byte Productions series and why bare metal is worth the effort.
+- [ ] <span class="les-tag">Interactive</span> **[Wokwi](https://wokwi.com/)** <span class="les-time">Optional</span><br>A browser simulator for the Pico and other boards. Useful when you are away from your desk, not a replacement for hardware.
+
+</details>

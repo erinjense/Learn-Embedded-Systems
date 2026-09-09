@@ -43,10 +43,13 @@ Between `main.c` and a blinking LED there is a compiler, an assembler, a linker 
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Book</span> **[Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm)** by Daniels Umanovskis <span class="les-time">Free, ~6 h</span><br>A free ebook that builds startup code, a linker script, a UART driver, and interrupts on an emulated Arm board. Complements the Interrupt series.
-    - [ ] <span class="les-tag">Article</span> **[Exploring Startup Implementations: Newlib (ARM)](https://embeddedartistry.com/blog/2019/04/17/exploring-startup-implementations-newlib-arm/)** by Phillip Johnston <span class="les-time">~1 h</span><br>What the standard C library's startup does for you, and what it costs.
-    - [ ] <span class="les-tag">Article</span> **[Code Size Optimization: GCC Compiler Flags](https://interrupt.memfault.com/blog/code-size-optimization-gcc-flags)** and **[Reproducible Firmware Builds](https://interrupt.memfault.com/blog/reproducible-firmware-builds)** by Memfault Interrupt <span class="les-time">~1 h</span><br>`-Os`, `-ffunction-sections`, `--gc-sections`, LTO, and why the same source should produce the same bytes.
-    - [ ] <span class="les-tag">Docs</span> **[GNU ld manual](https://sourceware.org/binutils/docs/ld/)** <span class="les-time">Reference</span><br>The full linker script language, for when a blog post is not enough.
-    - [ ] <span class="les-tag">Docs</span> **[GCC attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html)** <span class="les-time">Reference</span><br>`section`, `aligned`, `used`, `naked`, `interrupt`: the attributes startup code depends on.
+- [ ] <span class="les-tag">Book</span> **[Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm)** by Daniels Umanovskis <span class="les-time">Free, ~6 h</span><br>A free ebook that builds startup code, a linker script, a UART driver, and interrupts on an emulated Arm board. Complements the Interrupt series.
+- [ ] <span class="les-tag">Article</span> **[Exploring Startup Implementations: Newlib (ARM)](https://embeddedartistry.com/blog/2019/04/17/exploring-startup-implementations-newlib-arm/)** by Phillip Johnston <span class="les-time">~1 h</span><br>What the standard C library's startup does for you, and what it costs.
+- [ ] <span class="les-tag">Article</span> **[Code Size Optimization: GCC Compiler Flags](https://interrupt.memfault.com/blog/code-size-optimization-gcc-flags)** and **[Reproducible Firmware Builds](https://interrupt.memfault.com/blog/reproducible-firmware-builds)** by Memfault Interrupt <span class="les-time">~1 h</span><br>`-Os`, `-ffunction-sections`, `--gc-sections`, LTO, and why the same source should produce the same bytes.
+- [ ] <span class="les-tag">Docs</span> **[GNU ld manual](https://sourceware.org/binutils/docs/ld/)** <span class="les-time">Reference</span><br>The full linker script language, for when a blog post is not enough.
+- [ ] <span class="les-tag">Docs</span> **[GCC attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html)** <span class="les-time">Reference</span><br>`section`, `aligned`, `used`, `naked`, `interrupt`: the attributes startup code depends on.
+
+</details>

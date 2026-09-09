@@ -71,7 +71,7 @@
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.6rem;
   padding: 0.9rem 1rem; background: var(--md-default-bg-color);
 }
-.md-typeset .les-card h3 { margin: 0.1rem 0 0.3rem; font-size: 0.95rem; }
+.md-typeset .les-card .les-card__title { margin: 0.1rem 0 0.3rem; font-size: 0.95rem; font-weight: 600; color: var(--md-default-fg-color); }
 .md-typeset .les-card p { margin: 0.2rem 0 0.5rem; font-size: 0.75rem; color: var(--md-default-fg-color--light); }
 .md-typeset .les-card ul { margin: 0; padding-left: 1rem; font-size: 0.75rem; }
 .les-kicker { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--les-accent); font-weight: 700; }

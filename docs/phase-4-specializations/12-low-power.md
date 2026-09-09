@@ -56,9 +56,12 @@ A dedicated profiler solves all three by auto-ranging in microseconds with a tin
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[Optimizing C for Microcontrollers: Best Practices](https://www.youtube.com/watch?v=GYAhbYnObLI)** by Khem Raj <span class="les-time">~45 min</span><br>Less code running means less energy. Compiler flags and patterns.
-    - [ ] <span class="les-tag">Tool</span> **[Joulescope](https://www.joulescope.com/)** and the **[µCurrent](https://www.eevblog.com/projects/ucurrent/)** <span class="les-time">Browse</span><br>Two more measurement options: a precision energy analyzer, and a low-burden current adapter that upgrades any multimeter or scope.
-    - [ ] <span class="les-tag">Docs</span> **[Qoitech use cases](https://docs.qoitech.com/en/use-cases)** <span class="les-time">Browse</span><br>Battery emulation, automated regression testing of power in CI, and multi-device profiling.
-    - **Battery chemistry in one paragraph:** capacity in mAh is quoted at a specific discharge rate and temperature; real capacity drops with high pulse currents and cold. Coin cells in particular have high internal resistance and hate radio bursts. Always measure with the real battery, and design for the end-of-life voltage, not the fresh one.
+- [ ] <span class="les-tag">Video</span> **[Optimizing C for Microcontrollers: Best Practices](https://www.youtube.com/watch?v=GYAhbYnObLI)** by Khem Raj <span class="les-time">~45 min</span><br>Less code running means less energy. Compiler flags and patterns.
+- [ ] <span class="les-tag">Tool</span> **[Joulescope](https://www.joulescope.com/)** and the **[µCurrent](https://www.eevblog.com/projects/ucurrent/)** <span class="les-time">Browse</span><br>Two more measurement options: a precision energy analyzer, and a low-burden current adapter that upgrades any multimeter or scope.
+- [ ] <span class="les-tag">Docs</span> **[Qoitech use cases](https://docs.qoitech.com/en/use-cases)** <span class="les-time">Browse</span><br>Battery emulation, automated regression testing of power in CI, and multi-device profiling.
+- **Battery chemistry in one paragraph:** capacity in mAh is quoted at a specific discharge rate and temperature; real capacity drops with high pulse currents and cold. Coin cells in particular have high internal resistance and hate radio bursts. Always measure with the real battery, and design for the end-of-life voltage, not the fresh one.
+
+</details>

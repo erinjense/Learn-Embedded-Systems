@@ -13,5 +13,6 @@ Each specialization is 2 to 4 weeks and assumes Phases 1 to 3.
 | [16. Wireless](16-wireless.md) | It talks to a phone, a cloud, or other devices without a cable. | IoT, consumer, smart home, asset tracking |
 | [17. Signals, control, motors](17-dsp-control-motors.md) | It measures, filters, or moves something physical. | Audio, robotics, drones, appliances, power electronics |
 
-!!! tip "Which one first?"
-    If you work on consumer products, do 12 and 13. They are the two that most surprise new engineers, and they are rarely taught in school.
+> **Which one first?**
+>
+> If you work on consumer products, do 12 and 13. They are the two that most surprise new engineers, and they are rarely taught in school.

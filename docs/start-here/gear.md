@@ -38,5 +38,6 @@ Prices are approximate US retail in 2026 and will drift. Buy from the manufactur
 | **Raspberry Pi 4 or 5** | Module 15 | $35 to $80 | Only for the embedded Linux specialization. |
 | **BLE or Wi-Fi dev kit** | Module 16 | $10 to $60 | Only for the wireless specialization. Module 16 lists options. |
 
-!!! tip "Do not buy a kit with 37 sensors"
-    Big sensor bundles feel like value and mostly gather dust. Two or three well-documented breakouts you actually drive from the datasheet teach more than thirty you use through a library.
+> **Do not buy a kit with 37 sensors**
+>
+> Big sensor bundles feel like value and mostly gather dust. Two or three well-documented breakouts you actually drive from the datasheet teach more than thirty you use through a library.

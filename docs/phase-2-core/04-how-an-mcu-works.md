@@ -50,12 +50,15 @@ Start with the general picture, then the Arm specifics.
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Course</span> **[Nand2Tetris](https://www.nand2tetris.org/)** <span class="les-time">~60 h for Part 1</span><br>Build a computer from NAND gates in a simulator, then write its assembler. The most complete "how does a computer work" course that exists, and free.
-    - [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[Code: The Hidden Language of Computer Hardware and Software, 2nd ed.](https://www.charlespetzold.com/code/)** by Charles Petzold<br>The book version of the same journey, beautifully written. Great for high schoolers.
-    - [ ] <span class="les-tag">Video</span> **[Build a 6502 computer](https://eater.net/6502)** by Ben Eater <span class="les-time">~8 h</span><br>A real (1975) CPU on a breadboard, with a logic analyzer watching every bus cycle. Directly relevant to how your MCU talks to memory.
-    - [ ] <span class="les-tag">Docs</span> **[RISC-V training and learning resources](https://riscv.org/community/training/)** <span class="les-time">Browse</span><br>The Pico 2 can boot its RISC-V cores instead of the Arm ones. RISC-V is increasingly common in new silicon and worth a look once Arm is comfortable.
-    - [ ] <span class="les-tag">Course</span> **[Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)** by University of Colorado Boulder on Coursera <span class="les-time">~20 h, free to audit</span><br>Word sizes, memory alignment, memory maps, register definition files. Covers this module and the next from a software engineer's view.
-    - [ ] <span class="les-tag">Book</span> **[Arm Education books](https://www.arm.com/resources/education/books)** <span class="les-time">Reference</span><br>Joseph Yiu's *Definitive Guide to Arm Cortex-M* series is the deep reference once you know which core you are working with.
-    - [ ] <span class="les-tag">Article</span> **[How FPGAs work, and why you'll buy one](https://www.embeddedrelated.com/showarticle/195.php)** by Yossi Kreinin <span class="les-time">~30 min</span><br>The best plain-language explanation of what an FPGA is for.
+- [ ] <span class="les-tag">Course</span> **[Nand2Tetris](https://www.nand2tetris.org/)** <span class="les-time">~60 h for Part 1</span><br>Build a computer from NAND gates in a simulator, then write its assembler. The most complete "how does a computer work" course that exists, and free.
+- [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[Code: The Hidden Language of Computer Hardware and Software, 2nd ed.](https://www.charlespetzold.com/code/)** by Charles Petzold<br>The book version of the same journey, beautifully written. Great for high schoolers.
+- [ ] <span class="les-tag">Video</span> **[Build a 6502 computer](https://eater.net/6502)** by Ben Eater <span class="les-time">~8 h</span><br>A real (1975) CPU on a breadboard, with a logic analyzer watching every bus cycle. Directly relevant to how your MCU talks to memory.
+- [ ] <span class="les-tag">Docs</span> **[RISC-V training and learning resources](https://riscv.org/community/training/)** <span class="les-time">Browse</span><br>The Pico 2 can boot its RISC-V cores instead of the Arm ones. RISC-V is increasingly common in new silicon and worth a look once Arm is comfortable.
+- [ ] <span class="les-tag">Course</span> **[Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)** by University of Colorado Boulder on Coursera <span class="les-time">~20 h, free to audit</span><br>Word sizes, memory alignment, memory maps, register definition files. Covers this module and the next from a software engineer's view.
+- [ ] <span class="les-tag">Book</span> **[Arm Education books](https://www.arm.com/resources/education/books)** <span class="les-time">Reference</span><br>Joseph Yiu's *Definitive Guide to Arm Cortex-M* series is the deep reference once you know which core you are working with.
+- [ ] <span class="les-tag">Article</span> **[How FPGAs work, and why you'll buy one](https://www.embeddedrelated.com/showarticle/195.php)** by Yossi Kreinin <span class="les-time">~30 min</span><br>The best plain-language explanation of what an FPGA is for.
+
+</details>

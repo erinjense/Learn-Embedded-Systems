@@ -6,9 +6,9 @@
 
 C is still the language of firmware. It is small, which is why you can learn it in a month, and unforgiving, which is why people who half-learn it spend years chasing bugs. Embedded C in particular leans on the parts general programming courses skip: pointers to fixed addresses, bit manipulation, integer widths, and the idea that a variable can change without your code touching it.
 
-!!! warning "Do this module without AI assistance"
-    This is the one place we ask you to turn the assistants off. Write every exercise yourself, read every compiler error yourself, and use the debugger instead of print statements when something is wrong. The point is not the exercises. The point is building the mental model of memory that makes everything after this possible. You get the tools back in Module 3.
-
+> **Do this module without AI assistance**
+>
+> This is the one place we ask you to turn the assistants off. Write every exercise yourself, read every compiler error yourself, and use the debugger instead of print statements when something is wrong. The point is not the exercises. The point is building the mental model of memory that makes everything after this possible. You get the tools back in Module 3.
 ## You will be able to
 
 - Set up a C compiler and debugger on your own machine and use them from the command line.
@@ -57,11 +57,14 @@ Use GCC or Clang from a terminal, and GDB or LLDB to debug. On Windows, use WSL 
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Book</span> **[Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)** by Jens Gustedt <span class="les-time">Free PDF</span><br>The best second book on C. Rigorous, current, and honest about the language's sharp edges.
-    - [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[Effective C, 2nd Edition](https://nostarch.com/effective-c-2nd-edition)** by Robert Seacord<br>By a member of the C standards committee. Excellent on undefined behavior and security.
-    - [ ] <span class="les-tag">Article</span> **[Scope Regions in C and C++](https://www.embedded.com/scope-regions-in-c-and-c/)** by Dan Saks <span class="les-time">~20 min</span><br>Scope, storage duration, and linkage are three different things. Saks untangles them.
-    - [ ] <span class="les-tag">Docs</span> **GCC attributes: [syntax](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html), [function attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html), [variable attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Variable-Attributes.html)** and **[Pragmas](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html)**<br>`__attribute__((section(".vectors")))`, `aligned`, `packed`, `weak`, `naked`: you will meet all of these in startup code.
-    - [ ] <span class="les-tag">Article</span> **[Inline Functions in C](https://www.greenend.org.uk/rjk/tech/inline.html)** by Richard Kettlewell <span class="les-time">~15 min</span><br>`inline` means something different in C than most people think.
-    - [ ] <span class="les-tag">Course</span> **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** by MIT <span class="les-time">~10 h</span><br>Shell, editors, version control, debugging tools. The stuff nobody teaches and everyone needs.
+- [ ] <span class="les-tag">Book</span> **[Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)** by Jens Gustedt <span class="les-time">Free PDF</span><br>The best second book on C. Rigorous, current, and honest about the language's sharp edges.
+- [ ] <span class="les-tag">Book</span> <span class="les-tag les-paid">Paid</span> **[Effective C, 2nd Edition](https://nostarch.com/effective-c-2nd-edition)** by Robert Seacord<br>By a member of the C standards committee. Excellent on undefined behavior and security.
+- [ ] <span class="les-tag">Article</span> **[Scope Regions in C and C++](https://www.embedded.com/scope-regions-in-c-and-c/)** by Dan Saks <span class="les-time">~20 min</span><br>Scope, storage duration, and linkage are three different things. Saks untangles them.
+- [ ] <span class="les-tag">Docs</span> **GCC attributes: [syntax](https://gcc.gnu.org/onlinedocs/gcc/Attribute-Syntax.html), [function attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html), [variable attributes](https://gcc.gnu.org/onlinedocs/gcc/Common-Variable-Attributes.html)** and **[Pragmas](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html)**<br>`__attribute__((section(".vectors")))`, `aligned`, `packed`, `weak`, `naked`: you will meet all of these in startup code.
+- [ ] <span class="les-tag">Article</span> **[Inline Functions in C](https://www.greenend.org.uk/rjk/tech/inline.html)** by Richard Kettlewell <span class="les-time">~15 min</span><br>`inline` means something different in C than most people think.
+- [ ] <span class="les-tag">Course</span> **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** by MIT <span class="les-time">~10 h</span><br>Shell, editors, version control, debugging tools. The stuff nobody teaches and everyone needs.
+
+</details>

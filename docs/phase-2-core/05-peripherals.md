@@ -67,9 +67,12 @@ All register-level, no SDK peripheral functions, on the Pico 2. You may use the 
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[Raspberry Pi Pico Bare Metal Programming](https://www.youtube.com/playlist?list=PLiRALtgGsxmYTF6ZqDSg4DRWDLGVer-Kb)** by Low Byte Productions <span class="les-time">Clocks, DMA, and PIO videos, ~2 h</span><br>The same chip family driven from the registers on video.
-    - [ ] <span class="les-tag">Video</span> **[Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)** by SparkFun <span class="les-time">~20 min</span><br>If you came from Arduino, this shows exactly what `digitalWrite()` was hiding.
-    - [ ] <span class="les-tag">Article</span> **[Introduction to Microcontrollers series index](https://www.embeddedrelated.com/showarticle/453.php)** by Mike Silva <span class="les-time">Reference</span><br>The rest of the series: buttons and bouncing, ADC, driving displays, and more.
-    - [ ] <span class="les-tag">Docs</span> **RP2350 datasheet: PIO chapter** <span class="les-time">~2 h</span><br>The Pico's programmable I/O is unique: tiny state machines that bit-bang protocols at hardware speed. Not needed for the path, but delightful.
+- [ ] <span class="les-tag">Video</span> **[Raspberry Pi Pico Bare Metal Programming](https://www.youtube.com/playlist?list=PLiRALtgGsxmYTF6ZqDSg4DRWDLGVer-Kb)** by Low Byte Productions <span class="les-time">Clocks, DMA, and PIO videos, ~2 h</span><br>The same chip family driven from the registers on video.
+- [ ] <span class="les-tag">Video</span> **[Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)** by SparkFun <span class="les-time">~20 min</span><br>If you came from Arduino, this shows exactly what `digitalWrite()` was hiding.
+- [ ] <span class="les-tag">Article</span> **[Introduction to Microcontrollers series index](https://www.embeddedrelated.com/showarticle/453.php)** by Mike Silva <span class="les-time">Reference</span><br>The rest of the series: buttons and bouncing, ADC, driving displays, and more.
+- [ ] <span class="les-tag">Docs</span> **RP2350 datasheet: PIO chapter** <span class="les-time">~2 h</span><br>The Pico's programmable I/O is unique: tiny state machines that bit-bang protocols at hardware speed. Not needed for the path, but delightful.
+
+</details>

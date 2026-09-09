@@ -49,9 +49,12 @@ ST gives you three levels. The **HAL** (Hardware Abstraction Layer) is verbose b
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Community</span> **[ST Community forums](https://community.st.com/)** <span class="les-time">Reference</span><br>Where ST engineers answer questions. Search before asking; your problem has usually been solved.
-    - [ ] <span class="les-tag">Tool</span> **[STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)** <span class="les-time">~30 min</span><br>Flash, read protection, option bytes, and recovering a board you have locked yourself out of.
-    - [ ] <span class="les-tag">Course</span> **[STM32 education hub](https://www.st.com/content/st_com/en/support/learning/stm32-education.html)** <span class="les-time">Browse</span><br>Everything ST offers for learning, including the MOOCs and workshop materials.
-    - **What about Rust?** Embedded Rust is real and growing, especially with [Embassy](https://embassy.dev/) and the [Embedded Rust Book](https://docs.rust-embedded.org/book/). Learn C first; every codebase you will be hired into is C. Rust is a fine second language once the concepts are solid.
+- [ ] <span class="les-tag">Community</span> **[ST Community forums](https://community.st.com/)** <span class="les-time">Reference</span><br>Where ST engineers answer questions. Search before asking; your problem has usually been solved.
+- [ ] <span class="les-tag">Tool</span> **[STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)** <span class="les-time">~30 min</span><br>Flash, read protection, option bytes, and recovering a board you have locked yourself out of.
+- [ ] <span class="les-tag">Course</span> **[STM32 education hub](https://www.st.com/content/st_com/en/support/learning/stm32-education.html)** <span class="les-time">Browse</span><br>Everything ST offers for learning, including the MOOCs and workshop materials.
+- **What about Rust?** Embedded Rust is real and growing, especially with [Embassy](https://embassy.dev/) and the [Embedded Rust Book](https://docs.rust-embedded.org/book/). Learn C first; every codebase you will be hired into is C. Rust is a fine second language once the concepts are solid.
+
+</details>

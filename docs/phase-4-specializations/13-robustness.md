@@ -68,7 +68,10 @@ Each of these is cheap to add early and expensive to add after a failed test.
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - [ ] <span class="les-tag">Video</span> **[Embedded Security, Safety and Software Quality](https://www.youtube.com/playlist?list=PL_DQiOR0jhbXFZtjw6U-19X0jPDmg4UoR)** by Phil Koopman <span class="les-time">Lectures on watchdogs, robustness, and critical systems</span><br>The academic backing for everything above.
-    - **Getting your own ESD gun:** professional simulators cost thousands, but many labs rent bench time cheaply for pre-compliance, and a piezo lighter igniter near a connector is a crude but real static test that finds the worst problems for free. Never do this to hardware you cannot afford to lose.
+- [ ] <span class="les-tag">Video</span> **[Embedded Security, Safety and Software Quality](https://www.youtube.com/playlist?list=PL_DQiOR0jhbXFZtjw6U-19X0jPDmg4UoR)** by Phil Koopman <span class="les-time">Lectures on watchdogs, robustness, and critical systems</span><br>The academic backing for everything above.
+- **Getting your own ESD gun:** professional simulators cost thousands, but many labs rent bench time cheaply for pre-compliance, and a piezo lighter igniter near a connector is a crude but real static test that finds the worst problems for free. Never do this to hardware you cannot afford to lose.
+
+</details>

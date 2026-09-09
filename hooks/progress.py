@@ -1,8 +1,8 @@
 """MkDocs hook: count checklist items per page and emit site/progress.json.
 
 The site's checklist.js reads this file to draw the "Your progress" panel on
-the home page without hard-coding page lists anywhere. Pages can opt out with
-`progress: false` in their front matter.
+the home page without hard-coding page lists anywhere. Pages listed in EXCLUDE (or with
+`progress: false` in front matter) do not count toward the total.
 """
 import json
 import os
@@ -10,6 +10,8 @@ import re
 
 _PAGES = {}
 _ORDER = []
+# Pages whose checkboxes should not count toward the site-wide total.
+EXCLUDE = {"start-here/how-to-use/", "appendix/legacy-msp430-course/"}
 _TASK_RE = re.compile(r'class="task-list-item"')
 
 
@@ -19,7 +21,7 @@ def on_nav(nav, config, files):
 
 
 def on_page_content(html, page, config, files):
-    if page.meta.get("progress", True) is False:
+    if page.meta.get("progress", True) is False or page.url in EXCLUDE:
         return html
     total = len(_TASK_RE.findall(html))
     if total:

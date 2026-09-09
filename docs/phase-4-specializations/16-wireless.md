@@ -63,7 +63,10 @@ Any product that intentionally radiates needs regulatory approval: FCC in the US
 
 ## Go deeper
 
-??? note "Optional extras"
+<details markdown>
+<summary><strong>Optional extras</strong></summary>
 
-    - **Antennas in one line:** a trace antenna is free but tuned to the board it is on; move it, change the enclosure, or put a hand near it and performance changes. This is the hardware team's problem, but you will be asked to explain a range regression, so learn to ask "what changed near the antenna?"
-    - **Zephyr and wireless:** Zephyr has BLE, Thread, and Wi-Fi stacks built in, which is one reason it is winning in IoT. The Nordic courses above are Zephyr courses in disguise.
+- **Antennas in one line:** a trace antenna is free but tuned to the board it is on; move it, change the enclosure, or put a hand near it and performance changes. This is the hardware team's problem, but you will be asked to explain a range regression, so learn to ask "what changed near the antenna?"
+- **Zephyr and wireless:** Zephyr has BLE, Thread, and Wi-Fi stacks built in, which is one reason it is winning in IoT. The Nordic courses above are Zephyr courses in disguise.
+
+</details>
