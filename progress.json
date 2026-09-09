@@ -1,0 +1,124 @@
+{
+ "pages": [
+  {
+   "url": "phase-1-foundations/01-electronics/",
+   "title": "1. Electronics you actually need",
+   "section": "Phase 1 \u00b7 Foundations",
+   "total": 16
+  },
+  {
+   "url": "phase-1-foundations/02-c-for-embedded/",
+   "title": "2. C, learned properly",
+   "section": "Phase 1 \u00b7 Foundations",
+   "total": 20
+  },
+  {
+   "url": "phase-1-foundations/03-first-board-pico/",
+   "title": "3. Your first board (Pico 2)",
+   "section": "Phase 1 \u00b7 Foundations",
+   "total": 15
+  },
+  {
+   "url": "phase-2-core/04-how-an-mcu-works/",
+   "title": "4. How a microcontroller works",
+   "section": "Phase 2 \u00b7 Core",
+   "total": 17
+  },
+  {
+   "url": "phase-2-core/05-peripherals/",
+   "title": "5. Peripherals",
+   "section": "Phase 2 \u00b7 Core",
+   "total": 24
+  },
+  {
+   "url": "phase-2-core/06-communication/",
+   "title": "6. Communication",
+   "section": "Phase 2 \u00b7 Core",
+   "total": 20
+  },
+  {
+   "url": "phase-2-core/07-toolchain-and-build/",
+   "title": "7. Toolchain and build",
+   "section": "Phase 2 \u00b7 Core",
+   "total": 18
+  },
+  {
+   "url": "phase-3-professional/08-stepping-up-stm32/",
+   "title": "8. Stepping up to STM32",
+   "section": "Phase 3 \u00b7 Professional",
+   "total": 15
+  },
+  {
+   "url": "phase-3-professional/09-firmware-architecture/",
+   "title": "9. Firmware architecture and testing",
+   "section": "Phase 3 \u00b7 Professional",
+   "total": 28
+  },
+  {
+   "url": "phase-3-professional/10-rtos-and-real-time/",
+   "title": "10. Real time and RTOS",
+   "section": "Phase 3 \u00b7 Professional",
+   "total": 15
+  },
+  {
+   "url": "phase-3-professional/11-debugging-and-measurement/",
+   "title": "11. Debugging and measurement",
+   "section": "Phase 3 \u00b7 Professional",
+   "total": 21
+  },
+  {
+   "url": "phase-4-specializations/12-low-power/",
+   "title": "12. Low power",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 14
+  },
+  {
+   "url": "phase-4-specializations/13-robustness/",
+   "title": "13. Robustness (ESD, EMI, EFT)",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 13
+  },
+  {
+   "url": "phase-4-specializations/14-safety-and-security/",
+   "title": "14. Safety and security",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 17
+  },
+  {
+   "url": "phase-4-specializations/15-embedded-linux/",
+   "title": "15. Embedded Linux",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 16
+  },
+  {
+   "url": "phase-4-specializations/16-wireless/",
+   "title": "16. Wireless",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 12
+  },
+  {
+   "url": "phase-4-specializations/17-dsp-control-motors/",
+   "title": "17. Signals, control, motors",
+   "section": "Phase 4 \u00b7 Specializations",
+   "total": 13
+  },
+  {
+   "url": "phase-5-beyond/18-using-ai-well/",
+   "title": "18. Using AI well",
+   "section": "Phase 5 \u00b7 Beyond",
+   "total": 9
+  },
+  {
+   "url": "phase-5-beyond/19-capstone-projects/",
+   "title": "19. Capstone projects",
+   "section": "Phase 5 \u00b7 Beyond",
+   "total": 11
+  },
+  {
+   "url": "phase-5-beyond/20-career-and-community/",
+   "title": "20. Career and community",
+   "section": "Phase 5 \u00b7 Beyond",
+   "total": 21
+  }
+ ]
+}
